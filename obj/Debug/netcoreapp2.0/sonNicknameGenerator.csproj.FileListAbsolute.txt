@@ -1,0 +1,10 @@
+C:\CIDM3312\sonNicknameGenerator\bin\Debug\netcoreapp2.0\sonNicknameGenerator.deps.json
+C:\CIDM3312\sonNicknameGenerator\bin\Debug\netcoreapp2.0\sonNicknameGenerator.runtimeconfig.json
+C:\CIDM3312\sonNicknameGenerator\bin\Debug\netcoreapp2.0\sonNicknameGenerator.runtimeconfig.dev.json
+C:\CIDM3312\sonNicknameGenerator\bin\Debug\netcoreapp2.0\sonNicknameGenerator.dll
+C:\CIDM3312\sonNicknameGenerator\bin\Debug\netcoreapp2.0\sonNicknameGenerator.pdb
+C:\CIDM3312\sonNicknameGenerator\obj\Debug\netcoreapp2.0\sonNicknameGenerator.csproj.CoreCompileInputs.cache
+C:\CIDM3312\sonNicknameGenerator\obj\Debug\netcoreapp2.0\sonNicknameGenerator.AssemblyInfoInputs.cache
+C:\CIDM3312\sonNicknameGenerator\obj\Debug\netcoreapp2.0\sonNicknameGenerator.AssemblyInfo.cs
+C:\CIDM3312\sonNicknameGenerator\obj\Debug\netcoreapp2.0\sonNicknameGenerator.dll
+C:\CIDM3312\sonNicknameGenerator\obj\Debug\netcoreapp2.0\sonNicknameGenerator.pdb
